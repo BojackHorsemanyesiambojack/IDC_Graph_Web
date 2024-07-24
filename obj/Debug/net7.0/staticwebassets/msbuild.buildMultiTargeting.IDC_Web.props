@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IDC_Web.props" />
+</Project>
