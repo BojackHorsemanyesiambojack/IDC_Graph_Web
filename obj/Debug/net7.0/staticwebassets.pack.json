@@ -5,16 +5,44 @@
       "PackagePath": "staticwebassets\\IDC_Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\assets\\bx-right-arrow-alt.svg",
+      "PackagePath": "staticwebassets\\assets\\bx-right-arrow-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\assets\\bx-stats.svg",
+      "PackagePath": "staticwebassets\\assets\\bx-stats.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\assets\\bxl-gmail.svg",
+      "PackagePath": "staticwebassets\\assets\\bxl-gmail.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\assets\\bxs-bell.svg",
+      "PackagePath": "staticwebassets\\assets\\bxs-bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\assets\\bxs-dashboard.svg",
+      "PackagePath": "staticwebassets\\assets\\bxs-dashboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\assets\\bxs-file-doc.svg",
+      "PackagePath": "staticwebassets\\assets\\bxs-file-doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
       "Id": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\wwwroot\\lib\\bootstrap\\LICENSE",

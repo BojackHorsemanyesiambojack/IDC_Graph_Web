@@ -32,6 +32,14 @@ app.MapControllerRoute(
     pattern: "{controller}/{action=Index}/{id?}");
 
 app.UseAuthorization();
+app.UseEndpoints(Endpoints =>
+{
+    Endpoints.MapGet("/", context =>
+    {
+        context.Response.Redirect("/index.html");
+        return Task.CompletedTask;
+    });
+});
 app.MapRazorPages();
 
 app.Run();

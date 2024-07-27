@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6pmSc75ZzRm8yN12b8EgadDPIAHoANWxdXxwbpkBOOSRqh60szvCCGVh1umJhKDd3uyc1ZKI1avDKTlGbYZaIw==",
+  "dgSpecHash": "2tj7aIfbFLc=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO THINKPAD\\Documents\\teamp\\IDC_Web\\IDC_Web.csproj",
   "expectedPackageFiles": [
@@ -105,7 +105,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"DotEnv 0.0.1.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'DotEnv 0.0.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
       "libraryId": "DotEnv",
       "targetGraphs": [
         "net7.0"
@@ -115,7 +115,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"System.IO.Abstractions 1.4.0.86\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'System.IO.Abstractions 1.4.0.86' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
       "libraryId": "System.IO.Abstractions",
       "targetGraphs": [
         "net7.0"
